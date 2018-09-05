@@ -16,7 +16,7 @@ var str = "Hello, playground"
 
 
 //动画
-let containerView = UIView(frame: CGRect(x:0, y:0, width:700, height:700));
+let containerView = UIView(frame: CGRect(x:0, y:0, width:375, height:667));
 
 containerView.backgroundColor = UIColor.white;
 
