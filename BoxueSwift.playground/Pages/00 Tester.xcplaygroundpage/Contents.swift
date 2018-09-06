@@ -8,15 +8,11 @@
  ****
  */
 
+import UIKit
 import Foundation
+import PlaygroundSupport
 
 var str = "Hello, playground"
-let hello = "Hola, qué tal"
-
-let `private` = "private word"
-var word = `private`
 
 
-print(hello + " " + word)
-print("\(hello) \(word)")
 //: [Previous](@previous) | [Next](@next)
