@@ -4,5 +4,8 @@
         <page name='00 Tester'/>
         <page name='01 变量和常量'/>
         <page name='02 整数和浮点数'/>
+        <page name='03 使用Tuple打包数据'/>
+        <page name='04 快速过一遍常用操作符'/>
+        <page name='05 使用Markdown方言编写代码注释'/>
     </pages>
 </playground>
